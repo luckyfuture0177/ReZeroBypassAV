@@ -5,4 +5,4 @@
 - [各语言ShellcodeLoader初探](https://luckyfuture.top/ShellcodeLoader.html)
 - [从0开始写ShellCode加载器0x1-Windows内存操作api](https://luckyfuture.top/BypassAVLearning.html)
 - [从0开始写ShellCode加载器0x2-分离免杀](https://luckyfuture.top/BypassAVLearning2.html)
-
+- [从0开始写ShellCode加载器0x3-C++/C指针详解（未完）](https://luckyfuture.top/Cpp&CPointer.html)
