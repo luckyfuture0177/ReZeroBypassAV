@@ -25,8 +25,4 @@ windows内核就是C/C++写的，[微软官方文档](https://docs.microsoft.com
 
 并且在最开始我分别各种语言实现了一个demo，我发现Go和python加载也是调用VirtualAlloc这个Api（个人肤浅的认识，如果有误请指正），让别人帮我调不如先自己调。
 
-![image-20220327115813624](TyporaPicture/image-20220327115813624.png)
-
-![image-20220327120248086](TyporaPicture/image-20220327120248086.png)
-
 未来可能会转向Rust或Go。
