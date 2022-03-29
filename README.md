@@ -20,21 +20,51 @@
 
 ### 学习资料
 
+~~~
+回调函数
+https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection
+https://mp.weixin.qq.com/s/74wDqy_MMaUrve1FRZCqZg python实现
+~~~
+
+~~~
+go语言加载器
+https://mp.weixin.qq.com/s/H4ySyC8-80RX6CS2O-L3jA
+https://mp.weixin.qq.com/s/RemNu1gsKc7W_uULk0augg
+~~~
+
+~~~
+syscall
+https://f5.pm/go-105319.html
+https://yougar0.github.io/2021/12/03/Hell-s-Gate技术/
+~~~
+
+~~~
+inceptor
+https://mp.weixin.qq.com/s/7MOAcusYlErzA4F_BXnZNw 解析
+https://github.com/klezVirus/inceptor#usage 项目地址
+~~~
+
+~~~
+shellcode处理
+[将.NET程序集转换为shellcode](https://mp.weixin.qq.com/s/DoWRTIIBwuvzRd59wIWpXw)
 [aes加密shellcode](https://github.com/mai1zhi2/ShellCodeFramework)
+https://github.com/hasherezade/pe_to_shellcode
+~~~
 
+~~~
+DLL注入
 [深入理解反射式 dll 注入技术](https://paper.seebug.org/1855/)
-
-
-
-### 待解决的问题
-
+https://payloads.online/archivers/2020-01-02/1/ MemoryModule
+sRDI反射注入 https://mp.weixin.qq.com/s/GeR1Uc2zmdoHUD1m4PUPkA
 ~~~
-数组动态内存分配
-数据类型转换
-PE文件结构知识
-----------已解决---------------------
-C++指针学习
-~~~
+
+
+
+### 待解决问题
+
+动态内存分配
+
+类型转换
 
 ### 免杀思路
 
@@ -73,4 +103,3 @@ Mainifest（UAC）
 捆绑（增加钓鱼成功率）
 
 CDN（保护C2服务器）
-
