@@ -7,6 +7,7 @@
 - [从0开始写ShellCode加载器0x2-分离免杀](https://luckyfuture.top/BypassAVLearning2.html)
 - [从0开始写ShellCode加载器0x3-C++/C指针详解](https://luckyfuture.top/Cpp&CPointer.html)
 - [从0开始写ShellCode加载器0x4-隐藏导入表](https://luckyfuture.top/BypassAVLearning4.html)
+- [从0开始写ShellCode加载器0x5-代码混淆初探](https://luckyfuture.top/BypassAVLearning5.html)
 
 ### 进度
 
@@ -58,7 +59,12 @@ https://payloads.online/archivers/2020-01-02/1/ MemoryModule
 sRDI反射注入 https://mp.weixin.qq.com/s/GeR1Uc2zmdoHUD1m4PUPkA
 ~~~
 
-
+~~~
+代码混淆
+https://docs.microsoft.com/zh-cn/cpp/build/clang-support-msbuild?view=msvc-170 Visual Studio 项目中的 Clang/LLVM 支持
+https://marvinsblog.net/post/2019-01-08-clang-on-windows/ 在Windows下配置Clang编译器
+https://github.com/obfuscator-llvm/obfuscator
+~~~
 
 ### 待解决问题
 
